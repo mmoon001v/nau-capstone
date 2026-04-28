@@ -1,0 +1,10 @@
+---
+title: "Baseline_Results"
+author: "Myleen Maldonado"
+date: "2026-02-08"
+output: pdf_document
+---
+
+```{r cars}
+summary(cars)
+```
